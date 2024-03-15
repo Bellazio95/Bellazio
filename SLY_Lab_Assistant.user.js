@@ -20,7 +20,7 @@
 
 	//Used for reading solana data
 	let readRPCs = [
-		'https://rpc.hellomoon.io/7eb611b0-19d4-4a56-8322-fb9aa916c41b',
+		'https://rpc.hellomoon.io/f646c36b-c508-489e-bead-048d8dd59c8e',
 		'https://solana-api.syndica.io/access-token/WPoEqWQ2auQQY1zHRNGJyRBkvfOLqw58FqYucdYtmy8q9Z84MBWwqtfVf8jKhcFh/rpc',
 	];
 
